@@ -17,11 +17,12 @@ Atualmente estudo continuamente **arquitetura, clean code e desenvolvimento full
 
 <div align="center">
   <img src="https://github.com/rogergsferreira/rogergsferreira/assets/139197687/22b6940d-1dbf-42e0-9a09-d994b3aa4510" width="100" alt="Java">
+  <img src="https://img.icons8.com/color/2x/my-sql.png" width="100" alt="MySQL">
   <img src="https://github.com/rogergsferreira/rogergsferreira/assets/139197687/2fcc5f2d-fb4d-4096-991b-0e608e594cec" width="100" alt="TypeScript">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="110" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap">
+  <!-- <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"> -->
 </div>
 
 ---
@@ -30,8 +31,8 @@ Atualmente estudo continuamente **arquitetura, clean code e desenvolvimento full
 - Padrões de projeto
 - Testes automatizados
 - Servidores e APIs REST
-- TypeScript avançado
-- Java orientado a microservices (Spring futuramente)
+- Banco de dados MySQL
+- Java com Spring Boot
 
 ---
 
