@@ -42,7 +42,7 @@ Meu objetivo é iniciar minha carreira profissional atuando diretamente com back
 
 *(Essas tecnologias fazem parte do meu aprendizado contínuo, mas meu foco principal hoje é o backend com C#.)*
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 
@@ -51,8 +51,7 @@ Meu objetivo é iniciar minha carreira profissional atuando diretamente com back
 ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogergsferreira&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogergsferreira&layout=compact&hide_border=true)
 
-</div>
-
+</div> -->
 ---
 
 ## 🤝 Conecte-se comigo
