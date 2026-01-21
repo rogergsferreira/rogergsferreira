@@ -36,7 +36,6 @@ Meu objetivo é iniciar minha carreira profissional atuando diretamente com back
 ## 📌 Conhecimentos Complementares (em estudo)
 
 - Java e Spring Boot  
-- MySQL  
 - Testes automatizados  
 - Padrões de projeto  
 - Consumo e integração entre APIs  
