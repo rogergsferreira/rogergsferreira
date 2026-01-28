@@ -40,10 +40,7 @@ Meu objetivo é iniciar minha carreira profissional atuando diretamente com back
 - Padrões de projeto  
 - Consumo e integração entre APIs  
 
-*(Essas tecnologias fazem parte do meu aprendizado contínuo, mas meu foco principal hoje é o backend com C#.)*
-
-<!-- ---
-
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
