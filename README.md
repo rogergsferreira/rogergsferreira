@@ -1,57 +1,71 @@
 <img width="100%" src="https://github.com/rogergsferreira/rogergsferreira/assets/139197687/e6fe2829-8254-4783-acd6-6c78ad0b6bcb"/>
 
-# 👨‍💻 Róger Ferreira — Backend Developer (C# & ASP.NET Core)
+# 👨‍💻 Róger Ferreira — Software Engineering Student | Backend & Systems Enthusiast
 
-Desenvolvedor backend em formação, com foco no desenvolvimento de **APIs REST utilizando C#, ASP.NET Core, Entity Framework e SQL Server**.  
-Atualmente em processo de crescimento técnico e prático, buscando evoluir na construção de aplicações bem estruturadas, organizadas e escaláveis.
+Software Engineering student passionate about backend development, data systems, and technical troubleshooting.  
+I enjoy understanding how systems work in real production environments and solving problems that help applications run simpler and better.
 
-Meu objetivo é iniciar minha carreira profissional atuando diretamente com backend, trabalhando com código limpo, boas práticas e arquitetura bem definida.
+I have experience with backend APIs, SQL databases, and technical support, and I am currently expanding my skills in Linux, system diagnostics, and automation.
 
----
-
-## 🎯 Foco Atual
-
-- Desenvolvimento de APIs REST com **ASP.NET Core**
-- Organização de APIs seguindo padrões REST
-- Persistência de dados com **Entity Framework**
-- Modelagem e manipulação de dados com **SQL Server**
-- Versionamento de código com **Git/GitHub**
-- Organização de projetos e boas práticas em C#
+My main goal is to grow as a professional who can combine **software development, data, and system support**, especially in enterprise-scale environments.
 
 ---
 
-## 🚀 Tech Stack Principal
+## 🎯 Current Focus
+
+- Backend development with **Java / Spring Boot** and **C# / ASP.NET Core**
+- Building and consuming **REST APIs**
+- Working with **SQL databases** (MySQL, SQL Server)
+- Technical troubleshooting and problem diagnosis
+- Learning **Linux**, logs analysis, and system behavior
+- Automation and scripting with **Python (basic)**
+- Clean code, good practices, and software architecture
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="70" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70" alt="ASP.NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="GitHub"/>
 </div>
 
 ---
 
-## 📌 Conhecimentos Complementares (em estudo)
+## 🧠 Knowledge & Interests
 
-- Java e Spring Boot  
-- Testes automatizados  
-- Padrões de projeto  
-- Consumo e integração entre APIs  
+- Backend development & APIs  
+- SQL and data analysis  
+- System troubleshooting and diagnostics  
+- Application support in production environments  
+- XML and web services (basic)  
+- Linux command line & logs analysis  
+- Automation with Python (learning)  
+- Distributed systems concepts  
 
-<!--
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogergsferreira&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogergsferreira&layout=compact&hide_border=true)
-
-</div> -->
 ---
 
-## 🤝 Conecte-se comigo
+## 💼 Professional Goal
+
+I am looking for internship opportunities where I can:
+- Work close to real systems and customers  
+- Investigate and solve technical problems  
+- Learn enterprise technologies  
+- Grow in areas such as **data management, system support, and backend engineering**
+
+This aligns strongly with programs like the **SAP Internship Experience Program**.
+
+---
+
+## 🤝 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rogergsferreira/" target="_blank">
@@ -61,8 +75,7 @@ Meu objetivo é iniciar minha carreira profissional atuando diretamente com back
 
 ---
 
-### 📩 Quer falar comigo?
+### 📩 Want to talk?
 
-💼 Aberto para vagas de **estágio, trainee e júnior** em desenvolvimento backend.  
-📧 Entre em contato pelo **LinkedIn** — respondo rapidamente.
-
+💼 Open to **internship opportunities** in software engineering, backend, systems, and technical support.  
+📧 Reach me through **LinkedIn** — I reply quickly.
