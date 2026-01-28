@@ -61,8 +61,6 @@ I am looking for internship opportunities where I can:
 - Learn enterprise technologies  
 - Grow in areas such as **data management, system support, and backend engineering**
 
-This aligns strongly with programs like the **SAP Internship Experience Program**.
-
 ---
 
 ## 🤝 Connect with me
